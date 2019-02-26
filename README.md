@@ -1,4 +1,4 @@
-# Liver_Lesion_Segmentation
+# Liver Lesion Segmentation
 
 The goal of this project is to segment liver from CT scans and to detect unhealthy tissues. 
 
